@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Dashboard />
+    <Dashboard name="Ebubekir sıddık" />
   </div>
 </template>
 
@@ -16,9 +16,8 @@ import Dashboard from './components/Dashboard.vue';
 })
 export default class App extends Vue {
 
-  beforeMount() {
 
-  }
+
 }
 </script>
 
